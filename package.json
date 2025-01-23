@@ -2,11 +2,15 @@
   "name": "react-portfolio-template",
   "version": "0.1.0",
   "private": true,
-"homepage": "https://github.com/wick786786/react-portfolio-template",
-"scripts": {
-  "predeploy": "npm run build",
-  "deploy": "gh-pages -d build"
-},
+  "homepage": "https://wick786786.github.io/react-portfolio-template",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  },
   "dependencies": {
     "@emailjs/browser": "^4.4.1",
     "@emotion/react": "^11.11.4",
@@ -32,14 +36,6 @@
     "typescript": "^4.9.5",
     "web-vitals": "^2.1.4"
   },
-  "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
-  },
   "eslintConfig": {
     "extends": [
       "react-app",
@@ -59,6 +55,7 @@
     ]
   },
   "devDependencies": {
-    "@types/react-vertical-timeline-component": "^3.3.6"
+    "@types/react-vertical-timeline-component": "^3.3.6",
+    "gh-pages": "^6.3.0"
   }
 }
