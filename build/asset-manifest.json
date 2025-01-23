@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/react-portfolio-template/static/css/main.1fb9bd29.css",
+    "main.js": "/react-portfolio-template/static/js/main.f1e95a9d.js",
+    "static/js/453.b05d8aa5.chunk.js": "/react-portfolio-template/static/js/453.b05d8aa5.chunk.js",
+    "static/media/mock08.png": "/react-portfolio-template/static/media/mock08.13f46873fdbd382f4b76.png",
+    "static/media/pro2.png": "/react-portfolio-template/static/media/pro2.851a39c8fa84c04bd8c1.png",
+    "static/media/mock04.png": "/react-portfolio-template/static/media/mock04.f7b5679efade992a078c.png",
+    "static/media/bg-light.png": "/react-portfolio-template/static/media/bg-light.bac0efb485244a522981.png",
+    "static/media/mock07.png": "/react-portfolio-template/static/media/mock07.3f1110f482232b33c6a2.png",
+    "static/media/mock05.png": "/react-portfolio-template/static/media/mock05.4faafa70d200d1519a34.png",
+    "static/media/mock06.png": "/react-portfolio-template/static/media/mock06.ea816617e0d0fa0f63ca.png",
+    "static/media/bg-dark.png": "/react-portfolio-template/static/media/bg-dark.f420c6b8458af72de935.png",
+    "static/media/mock01.png": "/react-portfolio-template/static/media/mock01.61bd486a54bf6e17ee5a.png",
+    "static/media/profile.jpg": "/react-portfolio-template/static/media/profile.aff844ad800a36f75353.jpg",
+    "static/media/mock02.png": "/react-portfolio-template/static/media/mock02.bced48ae9cdda3acf1a3.png",
+    "static/media/mock03.png": "/react-portfolio-template/static/media/mock03.a4600719e0b5d2a3155b.png",
+    "static/media/pro1.png": "/react-portfolio-template/static/media/pro1.827d5d745d4a5b0c68d8.png",
+    "index.html": "/react-portfolio-template/index.html",
+    "main.1fb9bd29.css.map": "/react-portfolio-template/static/css/main.1fb9bd29.css.map",
+    "main.f1e95a9d.js.map": "/react-portfolio-template/static/js/main.f1e95a9d.js.map",
+    "453.b05d8aa5.chunk.js.map": "/react-portfolio-template/static/js/453.b05d8aa5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1fb9bd29.css",
+    "static/js/main.f1e95a9d.js"
+  ]
+}
